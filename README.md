@@ -41,7 +41,7 @@ To run the analysis, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Data_analysis_coupon
+    cd Data_Analysis_Coupon
     ```
 3. Install the required dependencies:
     ```sh
